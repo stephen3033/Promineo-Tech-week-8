@@ -1,4 +1,4 @@
-# Week 6 Project
+# Week 8 Project
 
 ## Description
 - style the page with css
